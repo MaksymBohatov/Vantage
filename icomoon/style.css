@@ -1,0 +1,60 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-construction {
+  width: 0.8828125em;
+}
+
+.icon-documentation {
+  width: 0.75em;
+}
+
+.icon-energy-audit {
+  width: 0.75em;
+}
+
+.icon-IMAGE-5 {
+  width: 3.8525390625em;
+}
+
+.icon-logo-antartica {
+  width: 3.6845703125em;
+}
+
+.icon-logo-artzo {
+  width: 4.052734375em;
+}
+
+.icon-logo-captain {
+  width: 3.40625em;
+}
+
+.icon-logo-chok {
+  width: 3.89453125em;
+}
+
+.icon-logo-cupcakes {
+  width: 3.7373046875em;
+}
+
+.icon-vantage-logo--big {
+  width: 3.8779296875em;
+}
+
+.icon-vantage-logo--small {
+  width: 3.8525390625em;
+}
