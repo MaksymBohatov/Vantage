@@ -726,6 +726,16 @@ html {
   height: 68px;
   background: #fff;
   border: none;
+
+  text-align: start;
+  color: #3d3d3d;
+  font-family:var(--main-font);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 34px; /* 309.091% */
+  letter-spacing: 2.763px;
+  text-transform: uppercase;
 }
 .newsletter__input::placeholder {
   width: 296px;
