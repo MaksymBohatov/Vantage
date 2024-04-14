@@ -26,6 +26,7 @@ html {
   background-repeat: no-repeat;
 
   height: 659px;
+  /* padding-bottom: 524px; */
 
   position: relative;
   z-index: 1;
@@ -722,8 +723,6 @@ html {
   left: 68px;
 }
 .newsletter__input {
-  width: 860px;
-  height: 68px;
   background: #fff;
   border: none;
 
@@ -736,17 +735,20 @@ html {
   line-height: 34px; /* 309.091% */
   letter-spacing: 2.763px;
   text-transform: uppercase;
+  
+  padding: 17px 0 17px 40px;
+  width: 860px;
+
 }
 .newsletter__input::placeholder {
   width: 296px;
-  text-align: end;
   color: #3d3d3d;
   font-family:var(--main-font);
   font-size: 11px;
   font-style: normal;
   font-weight: 700;
   line-height: 34px; /* 309.091% */
-  letter-spacing: 2.763px;
+  letter-spacing: 0.173em;
   text-transform: uppercase;
 }
 .newsletter__btn-subscribe {
